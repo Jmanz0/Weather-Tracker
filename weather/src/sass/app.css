@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box; 
+}
+
+html, body {
+    width: 100%;
+    height: 100%; 
+    background-color: lightblue;
+}
+
+.app-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.main-container {
+    min-width: 80%;
+    height: 600px;
+    display: flex;
+    border: 2px solid #999;
+    border-radius: 2px;
+    flex-direction: column;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.top-section {
+    flex: 0 0 50%;
+}
+
+.bottom-section {
+    flex: 0 0 50%;
+}
+
+

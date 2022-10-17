@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  },
+  "dependencies": {
+    "axios": "^1.1.2",
+    "events": "^3.3.0",
+    "react-popper": "^2.3.0"
+  }
+}
