@@ -1,2 +1,2 @@
-# WeatherClone
+# Weather Tracker
 
